@@ -28,4 +28,7 @@ public class BS25AmazonOA {
         }
         return required>=k;
     }
+}public int findConcecutiveMaxElement(int arr []){
+    int q =sc.nextInt();
+    
 }
