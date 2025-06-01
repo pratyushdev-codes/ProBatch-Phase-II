@@ -1,4 +1,5 @@
 public class numberofSubarraysWithSumK {
+    //wrong need to be solved
     public static void main(String[] args) {
         int arr [] = {10, 2, -2, -20, 10};
         int K = -10;
